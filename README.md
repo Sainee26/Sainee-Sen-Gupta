@@ -1,8 +1,12 @@
 # Sainee Sen Gupta
 
-## Skills:
+## Skills
 
-## Projects:
+### Programming Languages:
+
+### Algorithms:
+
+## Projects
 
 ### Healthcare Projects:
 
