@@ -1,12 +1,12 @@
 
 ## Skills
 
-### Programming Languages:
+### 1. Programming Languages:
 
-### Algorithms:
+### 2. Algorithms:
 
 ## Projects
 
-### Healthcare Projects:
+### 1. Healthcare:
 
-### Exploratory Data Analysis:
+### 2. Exploratory Data Analysis:
