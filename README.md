@@ -1,13 +1,12 @@
-# Sainee Sen Gupta
 
 ## Skills
 
-  ### Programming Languages:
+### Programming Languages:
 
-  ### Algorithms:
+### Algorithms:
 
 ## Projects
 
-  ### Healthcare Projects:
+### Healthcare Projects:
 
-  ### Exploratory Data Analysis:
+### Exploratory Data Analysis:
